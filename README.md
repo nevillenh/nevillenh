@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I’m Neville 👋
+
+I’m a college student and Python programming enthusiast who enjoys learning by building and experimenting with code.  
+Currently focused on strengthening my Python fundamentals, problem-solving skills, and working on small projects as I grow into a better developer.
+
+🔹 Learning: Python, data structures, basic algorithms  
+🔹 Interests: Automation, scripting, backend logic  
+🔹 Goal: Consistent improvement and real-world coding experience
+
+Thanks for stopping by!
 
 <!--
 **nevillenh/nevillenh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
